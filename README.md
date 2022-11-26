@@ -1,4 +1,4 @@
-# ABOUT ME
+## ABOUT ME
 
 Pós-graduado em Logística Empresarial pela FGV/ RJ e Gerenciamento de Projetos pela UFF/ RJ.
 
@@ -12,12 +12,12 @@ Especialista em Strategic Sourcing e Procurement.
 
 Conhecimento em Python, R, SQL, Power BI, VBA, planejamento, análise e previsão de dados.
 
-# CERTIFICATES
+## CERTIFICATES
 
 
-# PORTFOLIO
+## PORTFOLIO
 
-
+## FIND ME
 
 <!---
 Arandrade/Arandrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
