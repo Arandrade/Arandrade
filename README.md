@@ -2,7 +2,7 @@
 
 ## ABOUT ME
 
-Postgraduate in Business Logistics (FGV/RJ) and Project Management (UFF/RJ);
+Postgraduate in Logistics (FGV/RJ) and Project Management (UFF/RJ);
 
 Bachelor in Accounting (UNESA/RS) and International Relations with an emphasis on Foreign Trade (UNESA/RJ); 
 
