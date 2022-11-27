@@ -14,10 +14,19 @@ Specialist in Strategic Sourcing and Procurement;
 
 Knowledge in Python, R, SQL, Power BI, VBA, data planning, analysis and forecasting.
 
-🇵🇹  Portuguese nationality 
+🇵🇹  Portuguese Nationality.
 
-🇫🇷  Je connais un peu le français
+🇫🇷  Je connais un peu le français.
 
+💻 Tech I work on :
+
+<p align="left">
+  
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="python" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="mysql" width="45" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="mysql" width="45" height="55"/>
 
 
 ## CERTIFICATES
