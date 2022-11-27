@@ -1,3 +1,5 @@
+![](https://github.com/Arandrade/Arandrade/blob/main/Banner.PNG?raw=true)
+
 ## ABOUT ME
 
 Pós-graduado em Logística Empresarial pela FGV/ RJ e Gerenciamento de Projetos pela UFF/ RJ.
