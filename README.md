@@ -36,7 +36,8 @@ Knowledge in Python, R, SQL, Power BI, VBA, data planning, analysis and forecast
 
 ## FIND ME
 
-
+<a href="mailto:arandrade07@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  
 ♜  We can connect to play some games of Chess  >> https://lichess.org/@/arandrade7
 
 <!---
