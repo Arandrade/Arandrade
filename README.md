@@ -2,17 +2,23 @@
 
 ## ABOUT ME
 
-Pós-graduado em Logística Empresarial pela FGV/ RJ e Gerenciamento de Projetos pela UFF/ RJ.
+Postgraduate in Business Logistics (FGV/RJ) and Project Management (UFF/RJ);
 
-Bacharel em Contabilidade e em Relações Internacionais com ênfase em Comércio Exterior.
+Bachelor in Accounting (UNESA/RS) and International Relations with an emphasis on Foreign Trade (UNESA/RJ); 
 
-Bacharelando em Direito (5º Período) e Ciências da Computação (2º Período). 
+Attending Undergraduation in Law (5th Period) and Computer Science (2nd Period);
 
-Experiência como gerente de projetos, logística e supply chain.
+Experience as project manager, logistics and supply chain management;
 
-Especialista em Strategic Sourcing e Procurement. 
+Specialist in Strategic Sourcing and Procurement;
 
-Conhecimento em Python, R, SQL, Power BI, VBA, planejamento, análise e previsão de dados.
+Knowledge in Python, R, SQL, Power BI, VBA, data planning, analysis and forecasting.
+
+🇵🇹  Portuguese nationality 
+
+🇫🇷  Je connais un peu le français
+
+
 
 ## CERTIFICATES
 
@@ -20,6 +26,9 @@ Conhecimento em Python, R, SQL, Power BI, VBA, planejamento, análise e previsã
 ## PORTFOLIO
 
 ## FIND ME
+
+
+♜  We can connect to play some games of Chess  >> https://lichess.org/@/arandrade7
 
 <!---
 Arandrade/Arandrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
