@@ -31,21 +31,10 @@ Knowledge in Python, R, SQL, Power BI, VBA, data planning, analysis and forecast
 
 ## CERTIFICATES
 
-⭐ Macroeconomic and Financial Data Analysis in R - 60 Hours
-  
-☑️  
-⏩
-⚠
-✔
-  👉
-  ✔
-  ☑
-  ♦️
-  ◾
-  🔦
-  🤗
-  
-  
+☑️ Macroeconomic and Financial Data Analysis in R - 60 Hours
+☑️ Microsoft Power BI for Data Science - 72 Hours
+☑️ Big Data Analytics with R and Microsoft Azure Machine Learning - 108 Hours
+☑️ Python Fundamentals of Data Analysis = 60 Hours
   
 ## PORTFOLIO
 
