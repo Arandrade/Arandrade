@@ -39,7 +39,7 @@ Knowledge in Python, R, SQL, Power BI, VBA, data planning, analysis and forecast
   
 ☑️ Python Fundamentals of Data Analysis - 60 Hours
  
->> Python Fundamentals of Data Analysis - 60 Hours  
+=>> Python Fundamentals of Data Analysis - 60 Hours  
   
 ## PORTFOLIO
 
