@@ -38,7 +38,8 @@ Knowledge in Python, R, SQL, Power BI, VBA, data planning, analysis and forecast
 ☑️ Big Data Analytics with R and Microsoft Azure Machine Learning - 108 Hours
   
 ☑️ Python Fundamentals of Data Analysis - 60 Hours
-  
+ 
+> Python Fundamentals of Data Analysis - 60 Hours  
   
 ## PORTFOLIO
 
