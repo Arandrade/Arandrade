@@ -31,8 +31,8 @@ Knowledge in Python, R, SQL, Power BI, VBA, data planning, analysis and forecast
 
 ## CERTIFICATES
 
-✔️ 
-  ⭐
+⭐ Macroeconomic and Financial Data Analysis in R - 60 Hours
+  
   
 ## PORTFOLIO
 
