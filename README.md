@@ -40,7 +40,10 @@ Knowledge in Python, R, SQL, Power BI, VBA, data planning, analysis and forecast
   👉
   ✔
   ☑
-  
+  ♦️
+  ◾
+  🔦
+  🤗
   
   
   
